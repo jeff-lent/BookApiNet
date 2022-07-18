@@ -63,7 +63,7 @@ As the lead engineer on the project, your job is to implement the following user
 
 ***then Clone:***
 
-![Clone](./img/Clone.png)
+![Clone](./img/Screenshot-20220718002841-389x296.png)
 
 ***this repository!***
 
